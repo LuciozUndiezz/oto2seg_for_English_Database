@@ -1,0 +1,227 @@
+[
+  {
+    "arpabet": "pau",
+    "sampa": "Sil",
+    "type": "Silence"
+  },
+  {
+    "arpabet": "-",
+    "sampa": "Sil",
+    "type": "Silence"
+  },
+  {
+    "arpabet": "sil",
+    "sampa": "Sil",
+    "type": "Silence"
+  },
+  {
+    "arpabet": "aa",
+    "sampa": "Q",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "ae",
+    "sampa": "{",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "ah",
+    "sampa": "V",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "ao",
+    "sampa": "O;",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "aw",
+    "sampa": "aU",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "ax",
+    "sampa": "@",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "ay",
+    "sampa": "aI",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "b",
+    "sampa": "bh",
+    "type": "VoicedPlosives"
+  },
+  {
+    "arpabet": "ch",
+    "sampa": "tS",
+    "type": "UnvoicedAffricates"
+  },
+  {
+    "arpabet": "d",
+    "sampa": "dh",
+    "type": "VoicedPlosives"
+  },
+  {
+    "arpabet": "dh",
+    "sampa": "D",
+    "type": "VoicedFricatives"
+  },
+  {
+    "arpabet": "eh",
+    "sampa": "e",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "er",
+    "sampa": "@r",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "ey",
+    "sampa": "eI",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "f",
+    "sampa": "f",
+    "type": "UnvoicedFricatives"
+  },
+  {
+    "arpabet": "g",
+    "sampa": "gh",
+    "type": "VoicedPlosives"
+  },
+  {
+    "arpabet": "hh",
+    "sampa": "h",
+    "type": "Whisper"
+  },
+  {
+    "arpabet": "ih",
+    "sampa": "I",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "iy",
+    "sampa": "i;",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "jh",
+    "sampa": "dZ",
+    "type": "VoicedAffricates"
+  },
+  {
+    "arpabet": "k",
+    "sampa": "kh",
+    "type": "UnvoicedPlosives"
+  },
+  {
+    "arpabet": "l",
+    "sampa": "l",
+    "type": "Liquids"
+  },
+  {
+    "arpabet": "m",
+    "sampa": "m",
+    "type": "Nasals"
+  },
+  {
+    "arpabet": "n",
+    "sampa": "n",
+    "type": "Nasals"
+  },
+  {
+    "arpabet": "ng",
+    "sampa": "N",
+    "type": "Nasals"
+  },
+  {
+    "arpabet": "ow",
+    "sampa": "@U",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "oy",
+    "sampa": "OI",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "p",
+    "sampa": "ph",
+    "type": "UnvoicedPlosives"
+  },
+  {
+    "arpabet": "q",
+    "sampa": "?",
+    "type": "Silence"
+  },
+  {
+    "arpabet": "r",
+    "sampa": "r",
+    "type": "Liquids"
+  },
+  {
+    "arpabet": "s",
+    "sampa": "s",
+    "type": "UnvoicedFricatives"
+  },
+  {
+    "arpabet": "sh",
+    "sampa": "S",
+    "type": "UnvoicedFricatives"
+  },
+  {
+    "arpabet": "t",
+    "sampa": "th",
+    "type": "UnvoicedPlosives"
+  },
+  {
+    "arpabet": "dx",
+    "sampa": "4",
+    "type": "VoicedPlosives"
+  },
+  {
+    "arpabet": "th",
+    "sampa": "T",
+    "type": "UnvoicedFricatives"
+  },
+  {
+    "arpabet": "uh",
+    "sampa": "U",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "uw",
+    "sampa": "u;",
+    "type": "Vowel"
+  },
+  {
+    "arpabet": "v",
+    "sampa": "v",
+    "type": "VoicedFricatives"
+  },
+  {
+    "arpabet": "w",
+    "sampa": "w",
+    "type": "SemiVowels"
+  },
+  {
+    "arpabet": "y",
+    "sampa": "j",
+    "type": "SemiVowels"
+  },
+  {
+    "arpabet": "z",
+    "sampa": "z",
+    "type": "VoicedFricatives"
+  },
+  {
+    "arpabet": "zh",
+    "sampa": "Z",
+    "type": "VoicedFricatives"
+  }
+]
