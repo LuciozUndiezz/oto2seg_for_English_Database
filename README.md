@@ -4,12 +4,22 @@ Generate the files required for the VOCALOID DB Tool from UTAU's oto.ini
 ## This is a fork that will house multiple language packs for english UTAU conversion
 ### The only one finished at the moment is Arpasing (although when encountering a numbered alias it throws this, it's not an error that inhibits conversion)
 
+
 ```
 [Info] Numbered alias 'g -2' will be ignored.
 2024-08-17 03:25:50,562 [oto2lab] ERROR: Failed to parse g -2: 'NoneType' object has no attribute 'type' (oto2seg.py:283)
 Traceback (most recent call last):
   File "path\oto2seg.py", line 72, in generate_articulation_segment_info
     if entry_phoneme_info.type == "rcv":
+```
+
+### also also there are no I@, U@, e@, etc phonemes in arpasing, so those are not included in the conversion process. You will have to make those manually out of things like ao r vowel uw r aliases
+
+```
+r0.wav=eh r,1939,120,-261.279,110,100
+r0.wav=uw r,1159,120,-226.279,110,100
+r0.wav=ao r,284,120,-221.279,110,100
+
 ```
 
 ## Original README
