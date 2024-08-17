@@ -13,13 +13,12 @@ Traceback (most recent call last):
     if entry_phoneme_info.type == "rcv":
 ```
 
-### also also there are no I@, U@, e@, etc phonemes in arpasing, so those are not included in the conversion process. You will have to make those manually out of things like ao r vowel uw r aliases
+### also also there are no I@, U@, e@, etc phonemes in arpasing, so those are not included in the conversion process. You will have to make those manually out of things like ao r or uw r aliases like this below
 
 ```
 r0.wav=eh r,1939,120,-261.279,110,100
 r0.wav=uw r,1159,120,-226.279,110,100
 r0.wav=ao r,284,120,-221.279,110,100
-
 ```
 
 ## Original README
