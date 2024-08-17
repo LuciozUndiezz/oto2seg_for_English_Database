@@ -1,6 +1,19 @@
 # oto to seg for VOCALOID DBTOOL
 Generate the files required for the VOCALOID DB Tool from UTAU's oto.ini
 
+## This is a fork that will house multiple language packs for english UTAU conversion
+### The only one finished at the moment is Arpasing (although when encountering a numbered alias it throws this, it's not an error that inhibits conversion)
+
+```
+[Info] Numbered alias 'g -2' will be ignored.
+2024-08-17 03:25:50,562 [oto2lab] ERROR: Failed to parse g -2: 'NoneType' object has no attribute 'type' (oto2seg.py:283)
+Traceback (most recent call last):
+  File "path\oto2seg.py", line 72, in generate_articulation_segment_info
+    if entry_phoneme_info.type == "rcv":
+```
+
+## Original README
+
 This script will generate trans, seg, cropped wav and as0 files. The only thing you need to do is open dbtool, use File -> auto-alignment, select all entries (with the Shift key), and click 'Add Articulations to DB'
 
 It is recommended to quantify before adding to the database. Method: Select the first item in the Auto Alignment window, click "View/Edit Segmentation", re-select the second item in the Auto Alignment window, and then hold down the "Down" key on the keyboard until the highlight moves to the last item.
