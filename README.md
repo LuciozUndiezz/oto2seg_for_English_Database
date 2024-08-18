@@ -2,6 +2,9 @@
 Generate the files required for the VOCALOID DB Tool from UTAU's oto.ini
 
 ## This is a fork that will house multiple language packs for english UTAU conversion
+
+## Disclaimer: The generated files are not super accurate yet in terms of segmentation. I need to fix that. For now you'll have to look at every articulation segment and make sure it's correct!!
+
 ### The only one finished at the moment is Arpasing (although when encountering a numbered alias it throws this, it's not an error that inhibits conversion)
 
 
