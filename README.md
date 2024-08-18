@@ -5,6 +5,8 @@ Generate the files required for the VOCALOID DB Tool from UTAU's oto.ini
 
 ## Disclaimer: The generated files are not super accurate yet in terms of segmentation. I need to fix that. For now you'll have to look at every articulation segment and make sure it's correct!!
 
+![image](https://github.com/user-attachments/assets/aae61f1e-0974-4bda-9d2c-4fdfae6795d2)
+
 ### The only one finished at the moment is Arpasing (although when encountering a numbered alias it throws this, it's not an error that inhibits conversion)
 
 
